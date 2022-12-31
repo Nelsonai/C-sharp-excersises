@@ -1,0 +1,15 @@
+C:\Users\Nelson-AI\Desktop\C#\Excersises\Excersise 7\bin\Debug\net7.0\Excersise 7.exe
+C:\Users\Nelson-AI\Desktop\C#\Excersises\Excersise 7\bin\Debug\net7.0\Excersise 7.deps.json
+C:\Users\Nelson-AI\Desktop\C#\Excersises\Excersise 7\bin\Debug\net7.0\Excersise 7.runtimeconfig.json
+C:\Users\Nelson-AI\Desktop\C#\Excersises\Excersise 7\bin\Debug\net7.0\Excersise 7.dll
+C:\Users\Nelson-AI\Desktop\C#\Excersises\Excersise 7\bin\Debug\net7.0\Excersise 7.pdb
+C:\Users\Nelson-AI\Desktop\C#\Excersises\Excersise 7\obj\Debug\net7.0\Excersise 7.csproj.AssemblyReference.cache
+C:\Users\Nelson-AI\Desktop\C#\Excersises\Excersise 7\obj\Debug\net7.0\Excersise 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nelson-AI\Desktop\C#\Excersises\Excersise 7\obj\Debug\net7.0\Excersise 7.AssemblyInfoInputs.cache
+C:\Users\Nelson-AI\Desktop\C#\Excersises\Excersise 7\obj\Debug\net7.0\Excersise 7.AssemblyInfo.cs
+C:\Users\Nelson-AI\Desktop\C#\Excersises\Excersise 7\obj\Debug\net7.0\Excersise 7.csproj.CoreCompileInputs.cache
+C:\Users\Nelson-AI\Desktop\C#\Excersises\Excersise 7\obj\Debug\net7.0\Excersise 7.dll
+C:\Users\Nelson-AI\Desktop\C#\Excersises\Excersise 7\obj\Debug\net7.0\refint\Excersise 7.dll
+C:\Users\Nelson-AI\Desktop\C#\Excersises\Excersise 7\obj\Debug\net7.0\Excersise 7.pdb
+C:\Users\Nelson-AI\Desktop\C#\Excersises\Excersise 7\obj\Debug\net7.0\Excersise 7.genruntimeconfig.cache
+C:\Users\Nelson-AI\Desktop\C#\Excersises\Excersise 7\obj\Debug\net7.0\ref\Excersise 7.dll
